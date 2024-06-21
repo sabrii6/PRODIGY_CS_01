@@ -7,7 +7,7 @@ This is a simple Caesar Cipher text encryption and decryption tool implemented i
 Make sure you have Python3 installed on your system. If not, follow the instructions below to install it.
 
 #### On Kali Linux
-Kali Linux is a Debian-based distribution, so you can install Python 3 using apt.
+Kali Linux is a Debian-based distribution, so you can install Python3 using apt.
 ````
 sudo apt install python3
 ````
@@ -28,7 +28,7 @@ python3 caeser.py
 The ' main() ' function provides a simple command-line interface that allows the user to choose between encrypting and decrypting messages or exiting the program.
 
 ## Example
-This is a simple example demonstrating the usage of the Caesar Cipher encrypt/decrypt tool implemented in Python.
+This is a simple example demonstrating the usage of the Caesar Cipher encryption and decryption tool implemented in Python.
 ````
 Welcome to Cipher Encrypt/Decrypt Tool!!!
 
