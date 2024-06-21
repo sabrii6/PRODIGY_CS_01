@@ -22,7 +22,7 @@ cd PRODIGY_CS_01
 ````
 #### Run the Script:
 ````
-python3 caeser.py
+python3 cipher.py
 ````
 ## Main Program
 The ' main() ' function provides a simple command-line interface that allows the user to choose between encrypting and decrypting messages or exiting the program.
