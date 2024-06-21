@@ -1,6 +1,6 @@
 # Caesar Cipher Tool
 
-This is a simple Caesar Cipher text encryption and decryption tool implemented in Python. The Caesar Cipher is a type of substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet.It allow users to input a message and a shift value to perform encryption or decryption of their choice.
+This is a simple Caesar Cipher text encryption and decryption tool implemented in Python. The Caesar Cipher is a type of substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet.This program allow users to input a message and a shift value to perform encryption or decryption of their choice.
 
 ## Requirements
 
